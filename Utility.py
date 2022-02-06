@@ -1,0 +1,1 @@
+INPUTS_LENGTH = 16
